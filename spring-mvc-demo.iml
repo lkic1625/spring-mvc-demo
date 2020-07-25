@@ -30,5 +30,6 @@
     <orderEntry type="library" name="Spring Web Services-2.0.2" level="project" />
     <orderEntry type="library" name="Spring Webflow-2.4.0" level="project" />
     <orderEntry type="library" name="Spring Integration-5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
   </component>
 </module>

@@ -4,6 +4,7 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/spring-batch-infrastructure-2.2.6.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/spring-batch-core-2.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl-1.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

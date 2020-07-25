@@ -1,20 +1,23 @@
 <%--
   Created by IntelliJ IDEA.
   User: lkic1
-  Date: 2020-07-22
-  Time: 오전 3:31
+  Date: 2020-07-23
+  Time: 오전 2:56
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+
 </head>
 <body>
-    <h2>Spring demo mvc</h2>
-    <hr>
-    <a href="hello/showForm">Hello World Form</a>
-    <hr>
-    <a href="student/showForm">student register form</a>
+Hello world of Spring!
+
+<br><br>
+Student name: ${param.studentName}
+
+<br><br>
+The message: ${message}
+
 </body>
 </html>
